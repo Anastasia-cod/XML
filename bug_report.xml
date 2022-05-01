@@ -1,1 +1,6 @@
+<xml>
+    <Summary>Edit file on web interface</Summary>
+    <STR>Github</STR>
+    <Actual-result>File was edited</Actual-result>
+    <Expected-result>File was edited</Expected-result>
 
